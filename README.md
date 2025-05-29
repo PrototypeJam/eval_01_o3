@@ -1,4 +1,4 @@
-o3
+template starter app - o3
 
 # Prompt
 
